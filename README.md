@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Data Science !
+🌱 I’m currently learning Data Science & IA with Le Wagon Paris #batch1412 !
 <!--
 **DelphineSabatier/DelphineSabatier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
