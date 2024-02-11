@@ -32,7 +32,7 @@ The aim is provide predictions for the production and consumption of clients in 
 Personal project
 The aim is explore this dataset of job opportunities across Canada.
 
-...
+and more to come !
 
 ## Connect with Me
 
