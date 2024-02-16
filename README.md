@@ -8,17 +8,17 @@ I am eager to apply my newly acquired skills in the business world.
 
 ## Skills
 
-- **Python:** Proficient in Python programming language.
-- **Pandas:** Experienced in data manipulation and analysis with Pandas.
-- **NumPy:** Proficient in numerical computing using NumPy.
-- **Seaborn, Matplotlib, Plotly:** Skilled in creating visualizations and charts using these popular plotting libraries.
-- **Keras, TensorFlow, scikit-learn:** Strong background in machine learning with expertise in Keras, TensorFlow, and scikit-learn.
-- **Docker:** Familiar with containerization and using Docker for packaging applications.
-- **SQL:** Proficient in working with relational databases and writing SQL queries.
-- **Google Cloud Platform:** Experience in utilizing GCP services for cloud-based solutions.
-- **Jupyter Notebook:** Skilled in creating and sharing documents containing live code, equations, visualizations, and narrative text using Jupyter Notebooks.
-- **Tableau:** Proficient in creating interactive and insightful visualizations with Tableau.
-- **Power BI:** Skilled in designing and developing impactful business intelligence dashboards using Power BI.
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Seaborn, Matplotlib, Plotly**
+- **Keras, TensorFlow, scikit-learn**
+- **Docker**
+- **SQL** 
+- **Google Cloud Platform** 
+- **Jupyter Notebook** 
+- **Tableau** 
+- **Power BI** 
 
 ## Projects
 
