@@ -33,7 +33,7 @@ Personal project
 The aim is explore this dataset of job opportunities across Canada.
 
 
-#### [Sentiment Analysis on Movie Reviews] (https://github.com/DelphineSabatier/Sentiment-Analysis-on-Movie-Reviews)
+#### [Sentiment Analysis on Movie Reviews](https://github.com/DelphineSabatier/Sentiment-Analysis-on-Movie-Reviews)
 
 Personal project
 The aim is to explore ML and DL on Natural Language Processing.
