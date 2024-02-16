@@ -22,23 +22,23 @@ I am eager to apply my newly acquired skills in the business world.
 
 ## Projects
 
-#### [Kaggle Participation with Time Series Machine Learning](https://github.com/DelphineSabatier/Predict-Energy-Behavior-of-Prosumers)
+### [Kaggle Participation with Time Series Machine Learning](https://github.com/DelphineSabatier/Predict-Energy-Behavior-of-Prosumers)
 
 Group project completed during the final two weeks of the Le Wagon Data Science bootcamp, Batch #1412
 The aim is provide predictions for the production and consumption of clients in Estonia over a 4-day period.' To accomplish this, we opted to use two machine learning models: the Autoarima and the Prophet models.
 
-#### [Exploring Data Science jobs in Canada](https://github.com/DelphineSabatier/data-science-jobs-canada-2024)
+### [Exploring Data Science jobs in Canada](https://github.com/DelphineSabatier/data-science-jobs-canada-2024)
 
-Personal project
+Personal project \
 The aim is explore this dataset of job opportunities across Canada.
 
 
-#### [Sentiment Analysis on Movie Reviews](https://github.com/DelphineSabatier/Sentiment-Analysis-on-Movie-Reviews)
+### [Sentiment Analysis on Movie Reviews](https://github.com/DelphineSabatier/Sentiment-Analysis-on-Movie-Reviews)
 
-Personal project
+Personal project \
 The aim is to explore ML and DL on Natural Language Processing.
 
-and more to come !
+### and more to come !
 
 ## Connect with Me
 
